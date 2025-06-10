@@ -17,7 +17,7 @@ int main()
             
             if (result >= 10)
             {
-                printf("Congratulations! You have been picked for the project.\n");
+                printf("Congratulations! You have been selected for the project.\n");
             }
             else
             {
