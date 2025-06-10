@@ -21,7 +21,7 @@ int main()
             }
             else
             {
-                printf("Sorry, you have not been picked for the project.\n");
+                printf("Sorry, you have not been selected for the project.\n");
             }
             
             break; // Added break statement to exit the switch block
